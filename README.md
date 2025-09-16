@@ -46,7 +46,7 @@ It is part of the **ML-models** repository and demonstrates a complete end-to-en
 
 2. **Model Building**
 
-   * Multiple Linear Regression using `sklearn.linear_model.LinearRegression`
+   * Linear Regression using `sklearn.linear_model.LinearRegression`
    * Splitting dataset into **train** and **test** sets
 
 3. **Evaluation**
