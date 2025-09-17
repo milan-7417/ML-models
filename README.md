@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This project predicts employee salaries based on features such as **Age**,  and other attributes using **Multiple Linear Regression** in Python.
+This project predicts employee salaries based on features such as **Age**,  and other attributes using **Linear Regression** in Python.
 It is part of the **ML-models** repository and demonstrates a complete end-to-end machine learning workflow — from preprocessing to evaluation.
 
 ---
